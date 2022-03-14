@@ -22,6 +22,7 @@ public class Car {
     private String carModel;
     private String typeEngine;
     private Integer carPower;
+    private Long carShowroomId;
 
 
 
